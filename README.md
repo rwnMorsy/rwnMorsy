@@ -1,11 +1,15 @@
 <div align="center">
 
-# ✦ Rawan El Morsy ✦
-> **Software Engineer** specializing in Backend Architecture & Applied AI / NLP.
+# Rawan El Morsy
+### Software Engineer | Backend Development | Applied AI & NLP
 
 <p>
-  <a href="https://www.linkedin.com/in/rawan-el-morsy-69b075382?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:elmorsyrawan113@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -13,10 +17,12 @@
 ---
 
 ### 💻 About Me
-- 🎓 **Senior Computer Science Student**.
-- ⚙️ Focused on building scalable backend services, robust API architectures, and data workflows.
-- 🤖 Passionate about **Applied AI**, fine-tuning **NLP models**, and developing end-to-end ML pipelines.
-- 🛠️ Dedicated to writing maintainable, clean, and well-structured code.
+
+- 🎓 **Computer Science Student**.
+- ⚙️ Interested in building scalable backend services, APIs, and data workflows.
+- 🤖 Focused on **Applied AI, NLP, and end-to-end ML pipelines**.
+- 🛠️ Passionate about writing clean, maintainable, and well-structured code.
+- 🌍 Exploring **Open Source** through real-world contributions.
 
 ---
 
@@ -28,24 +34,30 @@
 
 <br/>
 
-* **Languages & Core:** Python, SQL, JavaScript
-* **Backend Frameworks:** FastAPI, Node.js, PostgreSQL
-* **Machine Learning & NLP:** PyTorch, Hugging Face, Data Modeling
-* **DevOps & Environments:** Git, GitHub, Docker, Linux, Postman
+- **Languages:** Python, SQL, JavaScript
+- **Backend:** FastAPI, Node.js, PostgreSQL
+- **AI & NLP:** PyTorch, Hugging Face, NLP, ML Pipelines
+- **DevOps & Tools:** Git, GitHub, Docker, Linux, Postman
 
 ---
 
-### 📈 Activity & Stats
+### 🌍 Open Source
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rwnMorsy&theme=tokyonight&hide_border=true" />
-</div>
+Contributing to open-source projects through bug fixes, improvements,
+and documentation while learning from real-world codebases.
 
 ---
 
-<div align="center">
+### 🚀 Featured Projects
+
+Coming soon...
+
+---
 
 ### 📬 Connect With Me
-**[LinkedIn](https://www.linkedin.com/in/rawan-el-morsy-69b075382?utm_source=share_via&utm_content=profile&utm_medium=member_ios)** • **[Email](mailto:elmorsyrawan113@gmail.com)**
+
+<div align="center">
+
+**[LinkedIn](YOUR_LINKEDIN)** • **[Email](mailto:YOUR_EMAIL)**
 
 </div>
